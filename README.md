@@ -23,13 +23,13 @@ The project code is organized into one Jupyter notebooks for each dataset, provi
 - `Covid_Analysis.ipynb`
 
 ## Dependencies
--Python 3.x
--Jupyter Notebook
--Pandas
--NumPy
--Matplotlib
--Plotly
--Streamlit
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Streamlit
 
 ## Interactive Dashboard
 
