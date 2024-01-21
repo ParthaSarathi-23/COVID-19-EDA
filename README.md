@@ -44,9 +44,9 @@ streamlit run dashboard.py
 ## Image Gallery
 
 ![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
-![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
-![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
-![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
-![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
-![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
-![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-2.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-3.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-4.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-5.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-6.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-7.png?raw=true)
