@@ -44,3 +44,9 @@ streamlit run dashboard.py
 ## Image Gallery
 
 ![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
+![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
