@@ -31,7 +31,13 @@ The project code is organized into one Jupyter notebooks for each dataset, provi
 - Plotly
 - Streamlit
 
-## Interactive Dashboard
+## Interactive Dashboard Using PowerBI
+
+I have developed an interactive dashboard using PowerBI where all the visualizations from the analysis are accessible in one place. The dashboard enhances the user experience and allows for dynamic exploration of the COVID-19 data.
+
+## Image Gallery for Streamlit
+
+## Interactive Dashboard Using Streamlit
 
 I have developed an interactive dashboard using Streamlit where all the visualizations from the analysis are accessible in one place. The dashboard enhances the user experience and allows for dynamic exploration of the COVID-19 data.
 
@@ -41,7 +47,7 @@ To run the Streamlit dashboard, execute the following command:
 streamlit run dashboard.py
 ```
 
-## Image Gallery
+## Image Gallery for Streamlit
 
 ![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-1.png?raw=true)
 ![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-2.png?raw=true)
