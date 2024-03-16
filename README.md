@@ -35,7 +35,7 @@ The project code is organized into one Jupyter notebooks for each dataset, provi
 
 I have developed an interactive dashboard using PowerBI where all the visualizations from the analysis are accessible in one place. The dashboard enhances the user experience and allows for dynamic exploration of the COVID-19 data.
 
-## Image Gallery for Streamlit
+## Image Gallery for Power BI
 
 ![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-8.png?raw=true)
 ![Alt Text](https://github.com/ParthaSarathi-23/COVID-19-EDA/blob/main/Image/Img-9.png?raw=true)
